@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "qbyt-food",
+    "name": "Qbyt Food",
     "slug": "qbyt-food",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -13,14 +13,9 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "android": {
+      "package": "com.qbytesoft.qbytFood",
+      "versionCode": 1
     }
   }
 }
